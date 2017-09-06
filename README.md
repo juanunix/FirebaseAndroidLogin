@@ -1,12 +1,15 @@
 # FirebaseAndroidLogin
 Logging in via Facebook, Google, Email for your Android application, with Firebase as backend, with verification
 
+<b>Demo at <a href="https://www.youtube.com/watch?v=5XbYyr8oFeo">Youtube</a></b>
+
 Features of the application:
 
 1. First time launch shows help sliders. (Ref: <a href= "https://www.androidhive.info/2016/05/android-build-intro-slider-app/">Intro Sliders</a> by Ravi Tamada)
 2. Register using email, Google, Facebook for the application.
 3. Email verification, resend verification and Password Reset.
 4. Logout option in navigation drawer.
+
 
 
 <h3>Follow all the steps after this to connect to Firebase:</h3>
